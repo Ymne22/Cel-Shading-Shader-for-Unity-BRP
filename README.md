@@ -103,9 +103,9 @@ Supports features like hard-edge lighting, SSS (subsurface scattering), rim ligh
 
 ## Compatibility
 
-- Unity 6 (Built-in Render Pipeline)
-- Not tested on URP/HDRP
-- Designed for forward rendering, but can be used on deferred rendering
+- ✅ Unity 6 (Built-in Render Pipeline)
+- ⚠️ Not compatible with URP or HDRP.
+- 💡 Optimized for Forward Rendering, compatible with Deferred
 
 ## License
 
