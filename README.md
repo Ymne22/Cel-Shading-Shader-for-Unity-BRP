@@ -35,7 +35,7 @@ Supports features like hard-edge lighting, SSS (subsurface scattering), rim ligh
 1. **Import the shader** into your Unity project
 2. Assign the `YmneShader/CelShading` shader to your material
 3. Tweak the properties in the material inspector
-4. (Optional) Open the `SampleScenes` folder to explore simple shader implementations
+4. (Optional) Open the `SampleScenes` folder to explore setup and parameter examples
 
 ## Included
 
