@@ -6,7 +6,7 @@ Supports features like hard-edge lighting, SSS (subsurface scattering), rim ligh
 ## Sample 1
 
 <div align="center">
-  <img src="Screenshots/Screenshot_1.png" alt="Preview 1"/>
+  <img src="Screenshots/Screenshot_1.gif" alt="Preview 1"/>
 </div>
 
 > The character model in the preview is **Gawr Gura** from Hololive as implementation on anime-style model.  
@@ -16,7 +16,7 @@ Supports features like hard-edge lighting, SSS (subsurface scattering), rim ligh
 ## Sample 2
 
 <div align="center">
-  <img src="Screenshots/Screenshot_2.png" alt="Preview 2"/>
+  <img src="Screenshots/Screenshot_2.gif" alt="Preview 2"/>
 </div>
 
 > This screenshots included in repository as sample scene
